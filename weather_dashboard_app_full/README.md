@@ -1,6 +1,6 @@
 # Weather Dashboard App
 
-A simple Flutter Weather Dashboard app made for lab evaluation.
+A simple Flutter Weather Dashboard app.
 
 ## Features
 - City search
@@ -10,8 +10,4 @@ A simple Flutter Weather Dashboard app made for lab evaluation.
 - Dummy local weather data
 - Clean modern UI
 
-## Run
-```bash
-flutter pub get
-flutter run
-```
+
